@@ -1,1 +1,1 @@
-CREATED THIS REPO TO CONTAIN MY CODEWARS SOLUTIONS & DEVELOP LOCALLY
+Created this REPO / DIR to house all of my codewars solutions moving forward.
