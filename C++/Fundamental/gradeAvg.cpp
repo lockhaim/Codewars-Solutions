@@ -13,7 +13,7 @@ Tested values are all between 0 and 100. Theres is no need to check for negative
 
 char getGrade(int a, int b, int c) {
     double avgScore = (a + b + c) / 3.0; // use 3.0 to ensure floating-point division
-    char lettGrade;
+    char lettGrade; 
   
     if (avgScore >= 90) {
         lettGrade = 'A';
